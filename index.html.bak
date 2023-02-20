@@ -4,11 +4,11 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Classic Bot</title>
+    <title>Astra bot</title>
     <link rel="stylesheet" href="css/style.css" />
     <meta
       name="description"
-      content="Classic is the best discord bot for all your moderation, games, ticketing, and fun use! Add me now
+      content="Astra is the best discord bot for all your roleplay, moderation, and economy use! Add me now
     to benefit from all my features."
     />
     <link
@@ -20,11 +20,11 @@
   <body>
     <header>
       <nav class="navbar">
-        <h3>Classic </h3>
+        <h3>Astra</h3>
         <ul>
-          <li><a href="https://discord.gg/8Jy5ESTAsY">Commands</a></li>
-          <li><a href="https://discord.gg/8Jy5ESTAsY">Support</a></li>
-          <li><a href="https://discord.com/api/oauth2/authorize?client_id=1075747132339925032&permissions=1110517509238&scope=bot%20applications.commands">Invite</a></li>
+          <li><a href="#">Commands</a></li>
+          <li><a href="#">Support</a></li>
+          <li><a href="#">Invite</a></li>
         </ul>
         <button class="hamburger">
           <div class="bar"></div>
@@ -33,18 +33,18 @@
     </header>
 
     <nav class="mobile-nav">
-      <a href="https://discord.gg/8Jy5ESTAsY">Commands</a>
-      <a href="https://discord.gg/8Jy5ESTAsY">Support</a>
-      <a href="https://discord.com/api/oauth2/authorize?client_id=1075747132339925032&permissions=1110517509238&scope=bot%20applications.commands">Invite</a>
+      <a href="#">Commands</a>
+      <a href="#">Support</a>
+      <a href="#">Invite</a>
     </nav>
 
     <div class="hero-image">
       <div class="hero-text">
-        <h1>Classic </h1>
+        <h1>Astra</h1>
         <p>
-          The best discord bot for moderation, games, ticketing, and fun!
+          The best discord bot for economy, moderation, utility, and security!
         </p>
-        <a href="https://discord.com/api/oauth2/authorize?client_id=1075747132339925032&permissions=1110517509238&scope=bot%20applications.commands"><button type="button">Invite me</button></a>
+        <a href="#"><button type="button">Invite me</button></a>
       </div>
     </div>
 
@@ -52,21 +52,21 @@
       <div class="card">
         <h1>High Uptime</h1>
         <p>
-          By adding Classic you are guaranteed High uptime so you will be able to
+          By adding astra you are guaranteed High uptime so you will be able to
           use this bot anytime you want to!
         </p>
       </div>
       <div class="card">
         <h1>Blazing Fast</h1>
         <p>
-          Classic is focused on performance so you will be rest assured that the
+          Astra is focused on performance so you will be rest assured that the
           bot wont lag or take too long to respond!
         </p>
       </div>
       <div class="card">
         <h1>Slash Commands</h1>
         <p>
-          Classic has slash commands so you wont be confused on the usage of the
+          Astra has slash commands so you wont be confused on the usage of the
           commands!
         </p>
       </div>
@@ -81,11 +81,12 @@
 
     <div class="banner">
       <h1>Do you have any issues or questions? Join the support server!</h1>
-      <a href="https://discord.gg/8Jy5ESTAsY"><button class="button">Support Server</button></a>
+      <a href="#"><button class="button">Support Server</button></a>
+      <a href="#"><button class="button-green">Lunar Community</button></a>
     </div>
 
     <footer class="footer">
-      <p>Classic Created by Al-Musawi#1707<a href="https://discord.gg/8Jy5ESTAsY"> | Support Server</a></p>
+      <p>Astra Created by <a href="https://lunarcodes.org">LunarCodes</a> | Made with 💖 by lunar#1234</p>
     </footer>
 
     <script src="./js/script.js"></script>
